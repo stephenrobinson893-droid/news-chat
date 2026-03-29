@@ -9,7 +9,7 @@ from datetime import datetime
 # ==============================
 # CONFIG
 # ==============================
-WEBHOOK_URL = "https://discord.com/api/webhooks/1487960326812074116/R5za9Q2Gg6pNieJMTHlOIwQOBIDDH-olsBuk3nzBcoBNg-yMUR_f1LBegtre87Wy5R6_"  # Regenerate this in Discord — old one is compromised
+WEBHOOK_URL = "[YOUR_NEW_WEBHOOK_URL_HERE](https://discord.com/api/webhooks/1487962367860932629/fTtiOk0vnpcr_PXqvsXYOqlLbiJsGqq4Mh4_qUT5c9h_-c8WaWRQtQ8DxVi8ZSU9DiJT)"  # Regenerate this in Discord — old one is compromised
 
 FEEDS = [
     "https://www.fxstreet.com/rss/news",
